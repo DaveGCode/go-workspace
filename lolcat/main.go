@@ -23,9 +23,11 @@ func main() {
 	for i := 1; i < 3; i++ {
 		phrases = append(phrases, faker.Hacker().Phrases()...)
 	}
+	// Untouched phrases
+	//fmt.Print(phrases)
 
 	// conc
-	output := strings.Join(phrases[:], "; ")
+	output := strings.Join(phrases[:], " ")
 
 	// for each char in output, set rgb color
 	for j := 0; j < len(output); j++ {
