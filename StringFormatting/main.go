@@ -66,4 +66,5 @@ func main() {
 	fmt.Println(s)
 
 	fmt.Fprintf(os.Stderr, "an %s\n", "error")
+
 }
