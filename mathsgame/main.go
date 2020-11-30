@@ -1,5 +1,8 @@
 /*
-Programming (C) - Assignment 1
+Programming (C) - Assignment 1 - https://github.com/DaveGCode/DIT-College-work/blob/master/Maths%20Game%20-%20C%20Programming
+
+--- Go version ---
+
 Mathematics Quiz Game
 
 - Menu Driven
